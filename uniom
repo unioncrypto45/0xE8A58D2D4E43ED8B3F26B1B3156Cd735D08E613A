@@ -1,0 +1,7 @@
+эхо "# 0xE8A58D2D4E43ED8B3F26B1B3156Cd735D08E613A" >> README.md 
+git init
+git add README.md 
+git commit -m "первая фиксация"
+ветвь git -M основная
+git remote add origin https://github.com/unioncrypto45/0xE8A58D2D4E43ED8B3F26B1B3156Cd735D08E613A.git
+git push -u origin main
